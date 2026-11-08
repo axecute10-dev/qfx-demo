@@ -1,0 +1,21 @@
+{
+ "_note": "DEMO records. Replace with your real staff list.",
+ "QF-1042": {
+  "name": "Rahim Uddin",
+  "role": "Electrician",
+  "division": "Chattogram",
+  "status": "Verified"
+ },
+ "QF-2217": {
+  "name": "Nasrin Akter",
+  "role": "Home care nurse",
+  "division": "Dhaka",
+  "status": "Verified"
+ },
+ "QF-3305": {
+  "name": "Karim Hossain",
+  "role": "Car driver",
+  "division": "Sylhet",
+  "status": "Suspended"
+ }
+}
